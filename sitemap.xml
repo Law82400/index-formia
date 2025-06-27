@@ -1,16 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.formia-ai.net/</loc>
-  <lastmod>2025-06-25T15:13:16+00:00</lastmod>
-</url>
-
-
-</urlset>
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.formia-ai.net/</loc><lastmod>2025-06-27</lastmod></url><url><loc>https://www.formia-ai.net/diagnostic</loc><lastmod>2025-06-27</lastmod></url><url><loc>https://www.formia-ai.net/formations</loc><lastmod>2025-06-27</lastmod></url><url><loc>https://www.formia-ai.net/contact</loc><lastmod>2025-06-27</lastmod></url><url><loc>https://www.formia-ai.net/#jour1</loc><lastmod>2025-06-27</lastmod></url><url><loc>https://www.formia-ai.net/#jour2</loc><lastmod>2025-06-27</lastmod></url><url><loc>https://www.formia-ai.net/#jour3</loc><lastmod>2025-06-27</lastmod></url></urlset>
